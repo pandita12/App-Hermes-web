@@ -1,0 +1,10 @@
+nombre de la base de datos 
+
+anderdb
+
+user: admin / password: admin 
+
+
+
+ error que corregir :  f'Error while fetching server API version: {e}'
+docker.errors.DockerException: Error while fetching server API version: ('Connection aborted.', PermissionError(13, 'Permission denied'))
